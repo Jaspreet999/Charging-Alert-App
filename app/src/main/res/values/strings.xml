@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Charging Alert</string>
+    <string name="battery_percentage">Battery Percentage</string>
+    <string name="percentage">80%</string>
+    <string name="_56">56%</string>
+    <string name="it_will_notify_you_after_every_10_of_charged">it will notify you after every 10% of charged</string>
+    <string name="do_you_want_to_get_alert">do you want to get alert?   </string>
+    <string name="todo">TODO</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+</resources>
